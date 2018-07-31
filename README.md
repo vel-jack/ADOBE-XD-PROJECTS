@@ -2,7 +2,7 @@
 Creative UI/UX templates
 ### *Download the xd document and open using ADOBE XD*
 # Dogbazar screenshots
-![](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/Screenshots/dogbazar/1.png =100x20)
+![](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/Screenshots/dogbazar/1.png =250)
 ![](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/Screenshots/dogbazar/2.png)
 ![](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/Screenshots/dogbazar/3.png)
 ![](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/Screenshots/dogbazar/4.png)
