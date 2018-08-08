@@ -12,3 +12,5 @@ Creative UI/UX templates
 ![Day 002 - Check out](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/XD/Daily%20UI%20Challenge/Daily%20UI%20002.png)
 ### Day 003 - Landing Page Design : https://www.youtube.com/watch?v=c8a276pvWS4
 ![Day 003 - Landing Page Design](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/XD/Daily%20UI%20Challenge/Daily%20UI%20003.png)
+### Day 003 - Calculator Design : https://www.youtube.com/watch?v=dh8CchFLnSI
+![Day 004 - Calculator Design](https://github.com/vel-jack/ADOBE-XD-PROJECTS/raw/master/XD/Daily%20UI%20Challenge/Daily%20UI%20004.png)
